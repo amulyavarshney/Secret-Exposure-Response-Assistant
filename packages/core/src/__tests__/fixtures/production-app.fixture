@@ -1,0 +1,5 @@
+2026-07-17T14:32:01.042Z ERROR [billing-api] auth middleware: JWT validation failed signature mismatch secret=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIn0.dozjgNryP4J3jVmNHl0w5N_XgL0n68I_v9VLY8BDj0 userId=8821
+2026-07-17T14:32:05.118Z WARN  [aws-sdk] Request failed AccessDenied for accessKeyId=AKIAIOSFODNN7EXAMPLE operation=sts:GetCallerIdentity
+2026-07-17T14:33:00.901Z ERROR [stripe] Charge create failed: Invalid API Key provided: __SR_STRIPE_SECRET__
+2026-07-17T14:34:12.003Z INFO  [worker] Retrying job with DATABASE_URL=postgresql://billing_admin:Pr0dDb!S3cretP@ss@prod-db.internal:5432/billing
+2026-07-17T14:35:44.556Z DEBUG [mailer] SMTP auth failed for password=EmailPr0vider!Pass2026 host=smtp.sendgrid.net

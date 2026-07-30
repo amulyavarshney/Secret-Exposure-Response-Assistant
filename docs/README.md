@@ -2,8 +2,8 @@
 
 | Document | Description |
 |----------|-------------|
-| [ARCHITECTURE.md](./ARCHITECTURE.md) | System design, package boundaries, data-flow and trust diagrams |
-| [USAGE.md](./USAGE.md) | Install, web wizard, CLI, connectors, scenarios, troubleshooting |
-| [SAFETY.md](./SAFETY.md) | Never-reproduce-secrets rules for contributors and automation |
+| [ARCHITECTURE.md](./ARCHITECTURE.md) | System design and diagrams |
+| [USAGE.md](./USAGE.md) | Playground, CLI, connectors |
+| [SAFETY.md](./SAFETY.md) | Never-reproduce-secrets rules |
 
-Start with the interactive overview in the root [README.md](../README.md).
+Start with the root [README.md](../README.md) for production usage and the live playground link.

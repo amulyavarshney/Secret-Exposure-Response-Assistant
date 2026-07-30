@@ -1,12 +1,15 @@
 {
-  "name": "secret-exposure-assistant",
+  "name": "secret-response",
   "private": true,
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
+    "dev:playground": "pnpm --filter @secret-response/playground dev",
+    "build:playground": "pnpm --filter @secret-response/playground build",
     "test": "turbo run test",
     "lint": "turbo run lint",
-    "typecheck": "turbo run typecheck"
+    "typecheck": "turbo run typecheck",
+    "demo:scan": "node scripts/demo-scan.mjs"
   },
   "devDependencies": {
     "turbo": "^2.5.4",

@@ -2,7 +2,7 @@ import { spawn } from "node:child_process";
 import { readFileSync, writeFileSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
-import { expandGoldenPlaceholders } from "../../../../../packages/core/src/__tests__/fixtures/golden-secrets.js";
+import { expandGoldenPlaceholders } from "./expand-golden.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 export const CLI_ENTRY = path.resolve(__dirname, "../../../dist/index.js");

@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://amulyavarshney.github.io/secret-response/"><strong>Live playground</strong></a>
+  <a href="#deploying-this-repo-to-github-pages"><strong>Live playground</strong></a>
   ·
   <a href="#production-usage">Production usage</a>
   ·

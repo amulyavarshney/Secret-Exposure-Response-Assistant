@@ -21,9 +21,8 @@
   <code>Advisory + Assisted connectors</code>
 </p>
 
-> **Recommended GitHub repo name:** `secret-response`  
-> **Pages URL:** `https://amulyavarshney.github.io/<repo-name>/` (must match the repository name exactly)  
-> Rename on GitHub if needed: **Settings → General → Repository name** → `secret-response`
+> **GitHub repo:** [`Secret-Response`](https://github.com/amulyavarshney/Secret-Response)  
+> **Pages URL:** `https://amulyavarshney.github.io/Secret-Response/`
 
 ---
 
